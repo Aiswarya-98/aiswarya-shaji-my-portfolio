@@ -1,0 +1,46 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I specialize in frontend development, proficient in HTML, CSS, JavaScript, and Bootstrap to create sleek, responsive web interfaces."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I'm skilled in Node.js and MongoDB for backend development, ensuring efficient web app functionality and data management."
+    },
+  
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Framework/Libraries",
+      "description": "I'm experienced in Angular and React for building dynamic and interactive web applications."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/mediapp-mern.png",
+      "title": "MEDIA APP",
+      "description": "Developed a MEAN stack media application facilitating seamless media streaming and management with advanced user functionalities.",
+      "link": "https://github.com/Aiswarya-98/mearn-react-mediaApp-frontend"
+    },
+    {
+      "id": "2",
+      "src": "./img/movie-api.png",
+      "title": "MOVIE SEARCH APP",
+      "description": "Developed a movie app with API integration, providing users with seamless access to comprehensive movie information and search functionalities.",
+      "link": "https://github.com/Aiswarya-98/mearn-react-movie-api-app"
+    },
+    {
+      "id": "3",
+      "src": "./img/blog-mean.png",
+      "title": "SIMPLE BLOG APPLICATION",
+      "description": "Created a MERN stack blog application enabling users to publish, manage, and share their content seamlessly and responsive with future enhancement.",
+      "link": "https://github.com/Aiswarya-98/MERN-blog-application"
+    }
+  ]
+}
